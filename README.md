@@ -1,2 +1,0 @@
-# PY.HW
-Python Homework
